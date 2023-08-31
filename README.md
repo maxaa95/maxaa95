@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Noob Programmer</h3>
 
-- 🌱 I’m currently learning **Diploma in Electrical and Electronics Engineering**
+I’m currently studying stud**Diploma in Electrical and Electronics Engineering**
 
 
 <h3 align="left">Connect with me:</h3>
