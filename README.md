@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Noob Programmer</h3>
 
+- 🌱 I’m currently learning **Diploma in Electrical and Electronics Engineering**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100092395960196&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100092395960196&mibextid=zbwkwl" height="30" width="40" /></a>
