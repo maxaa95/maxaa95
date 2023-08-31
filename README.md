@@ -1,4 +1,3 @@
-https://github.com/maxaa95/maxaa95/blob/main/luffy-gear-5.gif
 
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Noob Programmer</h3>
